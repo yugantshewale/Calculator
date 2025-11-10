@@ -14,9 +14,6 @@ A simple and elegant web-based calculator built with vanilla HTML, CSS, and Java
 
 ## Demo
 
-![Calculator Interface](screenshot.png)
-*Add a screenshot of your calculator here*
-
 ## Technologies Used
 
 - HTML5
