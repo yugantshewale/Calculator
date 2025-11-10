@@ -12,8 +12,6 @@ A simple and elegant web-based calculator built with vanilla HTML, CSS, and Java
 - **Clear Function**: Reset the calculator to start fresh
 - **Responsive Design**: Clean UI with hover effects and smooth animations
 
-## Demo
-
 ## Technologies Used
 
 - HTML5
